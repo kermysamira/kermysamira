@@ -1,6 +1,6 @@
 Oiii! Eu sou a Kermelyn Samira 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 🚧 Front-End Developer em construção
+- 🚧 Full-Stack Developer em construção
 - 😉 Pronomes: ela/dela
 
 ## 
